@@ -1,0 +1,5 @@
+#!/bin/bash
+
+CLASSPATH=$(shell pwd)/lib/antlr-4.7.1-complete.jar
+java -cp lib/antlr-4.7.1-complete.jar:classes/ Main $1
+

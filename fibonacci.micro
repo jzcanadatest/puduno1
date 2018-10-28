@@ -1,0 +1,6 @@
+PROGRAM fibonacci
+BEGIN
+	--This is a comment			
+	# hello
+	// comment 
+END	
